@@ -6,7 +6,7 @@
 }
 
 :root {
-    --primary-color: rgb(0, 172, 0);         /* Your bright green for accents */
+    --primary-color: rgb(0, 172, 0);        /* Your bright green for accents */
     --secondary-color: white;               /* Pure white background */
     --text-color: #064e3b;                  /* Your deep green for headings */
     --text-muted: #4b6354;                  /* A softer version for paragraphs */

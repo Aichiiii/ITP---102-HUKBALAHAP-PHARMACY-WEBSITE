@@ -6,13 +6,13 @@
 }
 
 :root {
-    --primary-color: rgb(0, 172, 0);        /* Your bright green for accents */
-    --secondary-color: white;               /* Pure white background */
-    --text-color: #064e3b;                  /* Your deep green for headings */
-    --text-muted: #4b6354;                  /* A softer version for paragraphs */
-    --border-color: rgba(0, 170, 0, 0.2);   /* Softened your border color for elegance */
-    --background-card-color: #f0fdf4;       /* Your soft mint background */
-    --button-color: rgb(28, 105, 63);       /* Your solid action green */
+    --primary-color: rgb(0, 172, 0);        
+    --secondary-color: white;               
+    --text-color: #064e3b;                 
+    --text-muted: #4b6354;                 
+    --border-color: rgba(0, 170, 0, 0.2);   
+    --background-card-color: #f0fdf4;       
+    --button-color: rgb(28, 105, 63);      
 }
 
 .grid-container{
